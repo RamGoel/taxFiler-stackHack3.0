@@ -1,0 +1,13 @@
+@media (max-width:768px){
+  #homeDiv{
+    flex-direction: column !important;
+  }
+}
+
+#homeDiv{
+  height: 100vh;
+  padding:0;
+}
+#homeDiv div{
+  height: 90%;
+}
