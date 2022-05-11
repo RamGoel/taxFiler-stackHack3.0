@@ -1,0 +1,16 @@
+td,th{
+    padding: 12px;
+    border: 2px solid white !important;
+    color: white;
+  }
+
+th{
+    color: white;
+    background-color: rgb(18, 91, 228);
+}
+
+tr:hover{
+    opacity: 50%;
+    transition: 0.5s;
+}
+  
